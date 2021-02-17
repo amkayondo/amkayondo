@@ -1,5 +1,13 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=amkayondo" alt="amkayondo" />
+<img src="https://komarev.com/ghpvc/?username=amkayondo" alt="amkayondo" /> <a target="_blank"  href="https://www.linkedin.com/in/kayondoedward/"><img src="https://img.shields.io/badge/-@kayondoedward-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/kayondoedward/" alt="LinkedIn Badge"></a>
+
+
+SHOW SUPPORT BTC - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code> 19QYnUKnFu2tQc1PyPwrG1QYeGhSXhoTJc
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 - 🔭 I’m currently working on delovery 😎
 
