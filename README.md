@@ -17,3 +17,4 @@ SHOW SUPPORT BTC - <code><img height="20" src="https://raw.githubusercontent.com
 <img  src="https://github-readme-stats.vercel.app/api?username=amkayondo&show_icons=true&count_private=true&&include_all_commits =true&theme=onedark" alt="amkayondo" />
 <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkayondo&hide=css&theme=nord" alt="amkayondo" />
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=amkayondo)](https://github.com/ryo-ma/github-profile-trophy)
