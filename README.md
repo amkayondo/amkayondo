@@ -5,7 +5,7 @@
 Am on Mars
 
 - 🌍  I'm based in Kampala, Uganda
-- ✉️  You can contact me at [amkayondoedward@gmail.com](mailto:amkayondoedward@gmail.com)
+- ✉️  You can contact me at [kayondoedward13@gmail.com](mailto:kayondoedward13@gmail.com)
 - 🚀  I'm currently working on [Lyrictape](http://lyrictape.com)<a href="https://www.github.com/amkayondo" target="_blank" rel="noreferrer"><img
                 src="https://img.shields.io/github/followers/amkayondo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/kayondoedward" target="_blank" rel="noreferrer"><img
                 src="https://img.shields.io/twitter/follow/kayondoedward?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
